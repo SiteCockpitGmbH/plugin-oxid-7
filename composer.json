@@ -1,0 +1,14 @@
+{
+    "name": "sitecockpit/easy-vision-oxid7",
+    "description": "Integrate SiteCockpit into OXID: automated accessibility monitoring, frontend widget & legally compliant accessibility declaration. Integration takes just a few minutes!",
+    "type": "oxideshop-module",
+    "homepage": "https://www.sitecockpit.com",
+    "license": [
+        "GPL-3.0-or-later"
+    ],
+    "autoload": {
+        "psr-4": {
+            "SiteCockpit\\EasyVision\\Oxid7\\": "./src/"
+        }
+    }
+}
