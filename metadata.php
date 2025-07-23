@@ -18,12 +18,9 @@ $aModule = [
     'author'      => 'Site Cockpit GmbH',
     'url'         => 'https://www.sitecockpit.com/',
     'email'       => 'marketing@sitecockpit.com',
-    'thumbnail'   => 'pictures/Extension.svg',
+    'thumbnail'   => 'Extension.svg',
     'extend' => [
         \OxidEsales\Eshop\Core\ViewConfig::class => \SiteCockpit\EasyVision\Oxid7\Core\ViewConfig::class,
-    ],
-    'templates'   => [
-        'footer.tpl' => 'sitecockpit/easy-vision-oxid7/views/flow/tpl/layout/footer.tpl',
     ],
     'settings' => [
         [

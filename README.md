@@ -53,7 +53,7 @@ Login to your OXID Admin
 
 Navigate to Extensions > Modules > easyVision > Settings
 
-Input your intergration key from SiteCockpit backend
+Input your integration key from SiteCockpit backend
 
 Activate module
 
