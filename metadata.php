@@ -9,7 +9,7 @@ $sMetadataVersion = '2.1';
  */
 $aModule = [
     'id'          => 'scp_easyvision_oxid7',
-    'title'       => 'easyVision',
+    'title'       => 'easyVision by SiteCockpit',
     'description' => [
         'de' => 'Integrieren Sie SiteCockpit in OXID: automatisiertes Accessibility‑Monitoring, Frontend‑Widget & gesetzeskonforme Barrierefreiheitserklärung. Integration erfolgt in wenigen Minuten!',
         'en' => 'Integrate SiteCockpit into OXID: automated accessibility monitoring, frontend widget & legally compliant accessibility declaration. Integration takes just a few minutes!'

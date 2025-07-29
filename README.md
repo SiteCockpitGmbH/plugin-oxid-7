@@ -51,7 +51,7 @@ Then tell Composer to load the plugin:
 
 Login to your OXID Admin
 
-Navigate to Extensions > Modules > easyVision > Settings
+Navigate to Extensions > Modules > easyVision by SiteCockpit > Settings
 
 Input your integration key from SiteCockpit backend
 
