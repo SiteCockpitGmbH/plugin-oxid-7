@@ -10,5 +10,8 @@
         "psr-4": {
             "SiteCockpit\\EasyVision\\Oxid7\\": "./src/"
         }
+    },
+    "require": {
+        "php": "^8.0"
     }
 }
